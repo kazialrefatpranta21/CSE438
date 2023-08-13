@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/rrkqkxfbdrvd
 
 Unlisted YouTube video:
-
+https://youtu.be/rGTmiRYAZzw
 
 Paper title:
 Agricultural Analysis and Prediction Using Satellite Imagery
