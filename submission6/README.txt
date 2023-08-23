@@ -9,6 +9,7 @@ Agricultural Analysis and Prediction Using Satellite Imagery
 
 Paper presentation (anyone can view without login):
 https://www.overleaf.com/read/rrkqkxfbdrvd
+Slide: https://docs.google.com/presentation/d/1ukNrRMbMqoO8ARrqghy0B7xGs7LvaV9LzAQKCDyP9HM/edit?usp=sharing
 
 Group Number:
 18
